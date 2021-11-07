@@ -1,0 +1,21 @@
+body {
+    background-image: url(./ex4.jpg);
+    background-repeat: no-repeat;
+    font-size: large;
+}
+
+h2 {
+    text-align: center;
+    color: #008888;
+}
+
+.doan1 {
+    background-color: #008888;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.doan2 {
+    color: #008888;
+}

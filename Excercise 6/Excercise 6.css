@@ -1,0 +1,32 @@
+ h2 {
+     text-align: center;
+     border-color: red;
+     border-width: 3px;
+     border-style: double;
+     color: red;
+ }
+ 
+ .doan1::first-letter {
+     font-size: 400%;
+     color: red;
+ }
+ 
+ .doan2::first-letter {
+     font-size: 400%;
+     color: red;
+ }
+ 
+ .noidung {
+     background-color: #FFA500;
+     color: white;
+     text-align: right;
+ }
+ 
+ span {
+     font-weight: bold;
+     color: red;
+ }
+ 
+ .doan2 {
+     text-align: right;
+ }

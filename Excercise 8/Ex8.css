@@ -1,0 +1,37 @@
+h2 {
+    text-align: center;
+    color: #FFA602;
+}
+
+div {
+    display: flex;
+}
+
+th.column1 {
+    width: 100px;
+}
+
+th.column2 {
+    width: 180px;
+}
+
+table {
+    text-align: center;
+    margin-left: 40px;
+}
+
+table,
+th,
+td {
+    border: 1.5px solid #AE5DAE;
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    background: #CC6600;
+}
+
+tr.column {
+    background-color: #FFEDCA;
+}

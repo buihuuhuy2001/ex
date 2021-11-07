@@ -1,0 +1,16 @@
+p {
+    color: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+    color: #FFCC01;
+}
+
+body {
+    background-color: #A06D21;
+    background-image: url(./ex3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}

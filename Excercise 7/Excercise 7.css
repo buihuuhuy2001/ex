@@ -1,0 +1,23 @@
+div {
+    display: flex;
+}
+
+.back-ground-red {
+    background-color: red;
+    color: white;
+    /* font-weight: bold; */
+    width: fit-content;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}

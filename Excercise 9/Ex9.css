@@ -1,0 +1,24 @@
+table,
+th,
+td {
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+tr.color-white {
+    color: white;
+    background-color: #CC0033;
+}
+
+td.red-color {
+    color: #FF1D1F;
+}
+
+td.center {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #FF1D1F;
+}
