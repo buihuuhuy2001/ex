@@ -1,0 +1,38 @@
+h1,
+p.line4 {
+    text-align: center;
+}
+
+h1.title {
+    background-color: blue;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+h1 {
+    margin: 0;
+}
+
+div.margin-left {
+    margin-left: 10px;
+}
+
+td.column {
+    width: 25%;
+}
